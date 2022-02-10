@@ -1,0 +1,45 @@
+.container{
+    margin: 0 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.top{
+    background: rgb(67, 219, 230);
+    padding: 10px;
+    margin-bottom: 30px;
+    border-end-start-radius: 6px;
+    border-end-end-radius: 6px;
+    color: white;
+}
+.post-section{
+    padding: 20px;
+}
+.postbox{
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    box-shadow: 3px 3px 20px lightgray;
+}
+.postbox h2{
+    color: rgb(9, 159, 179);
+    text-align: center;
+}
+.postbox p{
+    white-space: pre-wrap;
+}
+.form-box{
+    text-align: center;
+    padding: 10px;
+    background: rgb(227, 246, 247);
+}
+input{
+    width: 50%;
+    height: 30px;
+}
+textarea{
+    width: 50%;
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+}
